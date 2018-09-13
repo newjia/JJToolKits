@@ -1,8 +1,8 @@
 {
   "name": "JJToolKits",
   "version": "0.1.0",
-  "summary": "A short description of JJToolKits.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "基础工具类.",
+  "description": "我的基础类，用来快速开发项目.",
   "homepage": "https://github.com/newjia/JJToolKits",
   "license": {
     "type": "MIT",
@@ -16,7 +16,7 @@
     "tag": "0.1.0"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "9.0"
   },
   "source_files": "JJToolKits/Classes/**/*"
 }
