@@ -1,0 +1,16 @@
+PODS:
+  - JJToolKits (0.1.0)
+
+DEPENDENCIES:
+  - JJToolKits (from `../`)
+
+EXTERNAL SOURCES:
+  JJToolKits:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JJToolKits: 72ef7b0c71deca8809d48c2677cc00c4c5958112
+
+PODFILE CHECKSUM: f4921437904999d24c65d08bbc2ecb0c1587dfb8
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,22 @@
+{
+  "name": "JJToolKits",
+  "version": "0.1.0",
+  "summary": "A short description of JJToolKits.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/newjia/JJToolKits",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "newjia": "fatin@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/newjia/JJToolKits.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JJToolKits/Classes/**/*"
+}
