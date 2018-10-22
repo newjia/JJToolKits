@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'JJToolKits'
-  s.version          = '0.1.3'
+  s.version          = '0.1.4'
   s.summary          = '基础工具类.'
 
 # This description is used to generate tags and improve search results.
@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
   s.description      = <<-DESC
 我的基础类，用来快速开发项目.
-v0.1.1 文件夹
+v0.1.4 文件夹
                        DESC
 
   s.homepage         = 'https://github.com/newjia/JJToolKits'
